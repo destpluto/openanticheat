@@ -20,7 +20,7 @@ Traditional anti-cheat systems are black boxes:
 ## Current Draft
 
 The full v0.1-DRAFT specification is available here:  
-➡️ [specifications.md](specifications.md)
+➡️ [SPECIFICATIONS.md](SPECIFICATIONS.md)
 
 Highlights include:
 - Pluggable client/server module interfaces.  
